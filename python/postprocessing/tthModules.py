@@ -10,3 +10,5 @@ from tthAnalysis.NanoAODTools.postprocessing.modules.jetSubstructureObservablesP
 from PhysicsTools.NanoAODTools.postprocessing.modules.common.puWeightProducer import puWeight
 from PhysicsTools.NanoAODTools.postprocessing.modules.jme.jecUncertainties import jecUncert_cpp
 from PhysicsTools.NanoAODTools.postprocessing.modules.jme.jetmetUncertainties import jetmetUncertainties2017 as jetmetUncertainties
+from tthAnalysis.NanoAODTools.postprocessing.modules.LT import LTModule
+from PhysicsTools.NanoAODTools.postprocessing.modules.jme.mht import mht
