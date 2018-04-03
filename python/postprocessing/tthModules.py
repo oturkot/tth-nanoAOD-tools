@@ -23,9 +23,9 @@ from tthAnalysis.NanoAODTools.postprocessing.modules.susy1lep_base import susy1l
 # it has  an issue 
 from tthAnalysis.NanoAODTools.postprocessing.modules.susy1lep_gen import genpartsusymod
 # for Trig
-#from tthAnalysis.NanoAODTools.postprocessing.modules.susy1lep_trig import trigsusysusymod
+from tthAnalysis.NanoAODTools.postprocessing.modules.susy1lep_trig import trigsusysusymod
 
 ###### Oleksii
 from tthAnalysis.NanoAODTools.postprocessing.modules.susy_1l_triggers import susy_1l_Trigg
-from tthAnalysis.NanoAODTools.postprocessing.modules.susy_1l_filters import susy_1l_Filters
+#from tthAnalysis.NanoAODTools.postprocessing.modules.susy_1l_filters import susy_1l_Filters
 

@@ -268,7 +268,8 @@ class susysinglelep(Module):
 		nlep = len(leps)
         ### LEPTONS
 		Selected = False
-
+		if self.isMC == False and self.isSig == False: self.out.fillBranch("isData",1)
+		else : self.out.fillBranch("isData",0)
         # selected good leptons
 		selectedTightLeps = []
 		selectedTightLepsIdx = []
