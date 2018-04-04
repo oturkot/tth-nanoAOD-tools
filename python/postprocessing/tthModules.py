@@ -13,4 +13,4 @@ from PhysicsTools.NanoAODTools.postprocessing.modules.jme.jetmetUncertainties im
 from tthAnalysis.NanoAODTools.postprocessing.modules.LT import LTModule
 from PhysicsTools.NanoAODTools.postprocessing.modules.jme.mht import mht
 from tthAnalysis.NanoAODTools.postprocessing.modules.susy_1l_triggers import susy_1l_Trigg
-from tthAnalysis.NanoAODTools.postprocessing.modules.susy_1l_filters import susy_1l_Filters
+from tthAnalysis.NanoAODTools.postprocessing.modules.susy_1l_filters import susy_1l_FiltersMC, susy_1l_FiltersData
