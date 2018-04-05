@@ -1,0 +1,316 @@
+
+
+MC:
+
+DYJetsToLL_M50_HT400to600_ext
+/DYJetsToLL_M-50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+DYJetsToLL_M50_HT400to600
+/DYJetsToLL_M-50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+DYJetsToLL_M50_HT600to800
+/DYJetsToLL_M-50_HT-600to800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+DYJetsToLL_M50_HT800to1200
+/DYJetsToLL_M-50_HT-800to1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+DYJetsToLL_M50_HT1200to2500
+/DYJetsToLL_M-50_HT-1200to2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+DYJetsToLL_M50_HT2500toInf
+/DYJetsToLL_M-50_HT-2500toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+QCD_HT300to500_BGenFilter
+/QCD_HT300to500_BGenFilter_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM     # ???
+QCD_HT300to500_GenJets5
+/QCD_HT300to500_GenJets5_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM       # ???
+
+QCD_HT500to700_BGenFilter
+/QCD_HT500to700_BGenFilter_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM     # ???
+QCD_HT500to700_GenJets5
+/QCD_HT500to700_GenJets5_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM       # ???
+QCD_HT500to700_ext
+/QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM           # ?
+QCD_HT500to700
+/QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+QCD_HT700to1000_BGenFilter
+/QCD_HT700to1000_BGenFilter_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM    # ???
+QCD_HT700to1000_GenJets5
+/QCD_HT700to1000_GenJets5_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM      # ???
+QCD_HT700to1000_ext
+/QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM          # ?
+QCD_HT700to1000
+/QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+QCD_HT1000to1500_BGenFilter
+/QCD_HT1000to1500_BGenFilter_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM   # ???
+QCD_HT1000to1500_GenJets5
+/QCD_HT1000to1500_GenJets5_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM     # ???
+QCD_HT1000to1500_ext
+/QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM         # ?
+QCD_HT1000to1500
+/QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+QCD_HT1500to2000_BGenFilter
+/QCD_HT1500to2000_BGenFilter_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM   # ???
+QCD_HT1500to2000_GenJets5
+/QCD_HT1500to2000_GenJets5_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM     # ???
+QCD_HT1500to2000_ext
+/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM         # ?
+QCD_HT1500to2000
+/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+QCD_HT2000toInf_BGenFilter
+/QCD_HT2000toInf_BGenFilter_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM    # ???
+QCD_HT2000toInf_GenJets5
+/QCD_HT2000toInf_GenJets5_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM      # ???
+QCD_HT2000toInf_ext
+/QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM          # ?
+QCD_HT2000toInf
+/QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+# SMS_T1tttt_TuneCUETP8M1_1_Norm10393971    # ?
+# SMS_T1tttt_TuneCUETP8M1_2_Norm10414335    # ?
+# SMS_T1tttt_TuneCUETP8M1_3_Norm10327389    # ?
+
+SMS-T1tttt_mGluino-1200_mLSP-800            # added new ? or just different name ?
+/SMS-T1tttt_mGluino-1200_mLSP-800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+SMS-T1tttt_mGluino-1500_mLSP-100            # added new ? or just different name ?
+/SMS-T1tttt_mGluino-1500_mLSP-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+SMS-T1tttt_mGluino-2000_mLSP-100            # added new ? or just different name ?
+/SMS-T1tttt_mGluino-2000_mLSP-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+TBar_tWch_ext2
+/ST_tW_antitop_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16NanoAOD-05Feb2018_94X_mcRun2_asymptotic_v2_ext2-v1/NANOAODSIM            # ?
+TBar_tWch
+/ST_tW_antitop_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+TBar_tch_powheg
+/ST_t-channel_antitop_4f_inclusiveDecays_13TeV-powhegV2-madspin-pythia8_TuneCUETP8M1/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+TTJets_DiLepton_ext
+/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+TTJets_DiLepton
+/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+TTJets_LO_HT600to800_ext
+/TTJets_HT-600to800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+
+TTJets_LO_HT800to1200_ext
+/TTJets_HT-800to1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+
+TTJets_LO_HT1200to2500_ext
+/TTJets_HT-1200to2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+
+TTJets_LO_HT2500toInf_ext
+/TTJets_HT-2500toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+
+TTJets_SingleLeptonFromT
+/TTJets_SingleLeptFromT_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+TTJets_SingleLeptonFromTbar_ext
+/TTJets_SingleLeptFromTbar_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+TTJets_SingleLeptonFromTbar
+/TTJets_SingleLeptFromTbar_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+TTWToLNu_ext1
+/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+TTWToLNu_ext2
+/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext2-v1/NANOAODSIM
+
+TTWToQQ
+/TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+TTZToLLNuNu_ext1
+/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+TTZToLLNuNu_ext2
+/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext2-v1/NANOAODSIM
+TTZToLLNuNu_ext3
+/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext3-v1/NANOAODSIM
+
+TTZToQQ
+/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+TToLeptons_sch
+/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+T_tWch_ext2
+/ST_tW_top_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16NanoAOD-05Feb2018_94X_mcRun2_asymptotic_v2_ext2-v1/NANOAODSIM
+T_tWch_v2
+/ST_tW_top_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+T_tch_powheg
+/ST_t-channel_top_4f_inclusiveDecays_13TeV-powhegV2-madspin-pythia8_TuneCUETP8M1/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+WJetsToLNu_HT400to600_ext
+/WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+WJetsToLNu_HT400to600
+/WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+WJetsToLNu_HT600to800           # ????? not in DAS ?
+
+WJetsToLNu_HT800to1200_ext
+/WJetsToLNu_HT-800To1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+WJetsToLNu_HT800to1200
+/WJetsToLNu_HT-800To1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+WJetsToLNu_HT1200to2500
+/WJetsToLNu_HT-1200To2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+WJetsToLNu_HT2500toInf_ext
+/WJetsToLNu_HT-2500ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+WJetsToLNu_HT2500toInf
+/WJetsToLNu_HT-2500ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+WWTo2L2Nu
+/WWTo2L2Nu_13TeV-powheg/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+WWToLNuQQ_ext
+/WWToLNuQQ_13TeV-powheg/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2_ext1-v1/NANOAODSIM
+WWToLNuQQ
+/WWToLNuQQ_13TeV-powheg/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+WZTo1L1Nu2Q
+/WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+WZTo1L3Nu                       # ????? not in DAS ?
+
+WZTo2L2Q
+/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+ZZTo2L2Nu
+/ZZTo2L2Nu_13TeV_powheg_pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+ZZTo2L2Q_powheg                             #! added new, is it needed ?????
+/ZZTo2L2Q_13TeV_powheg_pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+ZZTo2L2Q
+/ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16NanoAOD-PUMoriond17_05Feb2018_94X_mcRun2_asymptotic_v2-v1/NANOAODSIM
+
+
+
+Data:
+
+MET_Run2016B_03Feb2017_v1                           #! added new 
+/MET/Run2016B-05Feb2018_ver1-v1/NANOAOD
+
+MET_Run2016B_03Feb2017_v2
+/MET/Run2016B-05Feb2018_ver2-v1/NANOAOD
+
+MET_Run2016C_03Feb2017
+/MET/Run2016C-05Feb2018-v1/NANOAOD
+
+MET_Run2016D_03Feb2017
+/MET/Run2016D-05Feb2018-v1/NANOAOD
+
+MET_Run2016E_03Feb2017
+/MET/Run2016E-05Feb2018-v1/NANOAOD
+
+MET_Run2016F_03Feb2017
+/MET/Run2016F-05Feb2018-v1/NANOAOD
+
+MET_Run2016G_03Feb2017
+/MET/Run2016G-05Feb2018-v1/NANOAOD
+
+MET_Run2016H_03Feb2017_v2
+/MET/Run2016H-05Feb2018_ver2-v1/NANOAOD
+
+MET_Run2016H_03Feb2017_v3
+/MET/Run2016H-05Feb2018_ver3-v1/NANOAOD
+
+
+
+SingleElectron_Run2016B_03Feb2017_v1                #! added new 
+/SingleElectron/Run2016B-05Feb2018_ver1-v2/NANOAOD
+/SingleElectron/Run2016B-05Jan2018_ver1-v1/NANOAOD      # old one
+
+SingleElectron_Run2016B_03Feb2017_v2
+/SingleElectron/Run2016B-05Feb2018_ver2-v2/NANOAOD
+/SingleElectron/Run2016B-05Jan2018_ver2-v1/NANOAOD      # old one
+
+SingleElectron_Run2016C_03Feb2017
+/SingleElectron/Run2016C-05Feb2018-v2/NANOAOD
+/SingleElectron/Run2016C-05Jan2018-v1/NANOAOD       # old one
+
+SingleElectron_Run2016D_03Feb2017
+/SingleElectron/Run2016D-05Feb2018-v2/NANOAOD
+/SingleElectron/Run2016D-05Jan2018-v1/NANOAOD       # old one
+
+SingleElectron_Run2016E_03Feb2017
+/SingleElectron/Run2016E-05Feb2018-v2/NANOAOD
+/SingleElectron/Run2016E-05Jan2018-v1/NANOAOD       # old one
+
+SingleElectron_Run2016F_03Feb2017
+/SingleElectron/Run2016F-05Feb2018-v2/NANOAOD
+/SingleElectron/Run2016F-05Jan2018-v1/NANOAOD       # old one
+
+SingleElectron_Run2016G_03Feb2017
+/SingleElectron/Run2016G-05Feb2018-v2/NANOAOD
+/SingleElectron/Run2016G-05Jan2018-v1/NANOAOD       # old one
+
+SingleElectron_Run2016H_03Feb2017_v2
+/SingleElectron/Run2016H-05Feb2018_ver2-v2/NANOAOD
+/SingleElectron/Run2016H-05Jan2018_ver2-v1/NANOAOD      # old one
+
+SingleElectron_Run2016H_03Feb2017_v3
+/SingleElectron/Run2016H-05Feb2018_ver3-v2/NANOAOD
+/SingleElectron/Run2016H-05Jan2018_ver3-v1/NANOAOD      # old one
+
+
+
+SingleMuon_Run2016B_03Feb2017_v1                    #! added new
+/SingleMuon/Run2016B-05Feb2018_ver1-v1/NANOAOD
+/SingleMuon/Run2016B-05Jan2018_ver1-v1/NANOAOD      # old one
+
+SingleMuon_Run2016B_03Feb2017_v2
+/SingleMuon/Run2016B-05Feb2018_ver2-v1/NANOAOD
+/SingleMuon/Run2016B-05Jan2018_ver2-v1/NANOAOD      # old one
+
+SingleMuon_Run2016C_03Feb2017
+/SingleMuon/Run2016C-05Feb2018-v1/NANOAOD
+/SingleMuon/Run2016C-05Jan2018-v1/NANOAOD       # old one
+
+SingleMuon_Run2016D_03Feb2017
+/SingleMuon/Run2016D-05Feb2018-v1/NANOAOD
+/SingleMuon/Run2016D-05Jan2018-v1/NANOAOD       # old one
+
+SingleMuon_Run2016E_03Feb2017
+/SingleMuon/Run2016E-05Feb2018-v1/NANOAOD
+/SingleMuon/Run2016E-05Jan2018-v1/NANOAOD       # old one
+
+SingleMuon_Run2016F_03Feb2017
+/SingleMuon/Run2016F-05Feb2018-v1/NANOAOD
+/SingleMuon/Run2016F-05Jan2018-v1/NANOAOD       # old one
+
+SingleMuon_Run2016G_03Feb2017
+/SingleMuon/Run2016G-05Feb2018-v1/NANOAOD
+/SingleMuon/Run2016G-05Jan2018-v1/NANOAOD       # old one
+
+SingleMuon_Run2016H_03Feb2017_v2
+/SingleMuon/Run2016H-05Feb2018_ver2-v1/NANOAOD
+/SingleMuon/Run2016H-05Jan2018_ver2-v1/NANOAOD      # old one
+
+SingleMuon_Run2016H_03Feb2017_v3
+/SingleMuon/Run2016H-05Feb2018_ver3-v1/NANOAOD
+/SingleMuon/Run2016H-05Jan2018_ver3-v1/NANOAOD      # old one
+
+
